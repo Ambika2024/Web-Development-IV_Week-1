@@ -19,3 +19,15 @@ At the end of the hall, you notice three distinct paths:
 The Left Path: This path leads down a set of crumbling stairs into darkness, with faint whispers of wind echoing from below.
 The Center Path: This seems to lead to a beautifully carved archway, with symbols resembling constellations.
 The Right Path: This path appears to ascend, leading up through a series of winding staircases towards the temple’s higher levels.
+
+(navita15)
+You decide to take the left path, intrigued by the whispers of wind coming from the depths below. As you carefully descend the crumbling stairs, you notice the air growing colder and more oppressive. The stairway eventually leads to a subterranean chamber illuminated by flickering torchlight.
+
+In the center of the chamber lies an ancient stone altar covered in strange symbols and a large, ornate chest. The chest is secured with a complex lock that seems to be a puzzle of its own. Nearby, you find a faded parchment on the wall with a series of riddles.
+
+As you attempt to decipher the riddles and unlock the chest, you hear a faint, rhythmic thumping sound coming from behind a hidden door in the chamber. The sound seems to be getting closer.
+
+Do you:
+
+Continue Solving the Riddles: Try to unlock the chest and uncover what’s inside.
+Investigate the Hidden Door: Check the source of the rhythmic thumping sound.

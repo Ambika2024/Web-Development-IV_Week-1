@@ -6,7 +6,7 @@ After months of preparation, you've finally assembled a team of experts and set 
 
 As you approach the island's shores, you notice that the air is thick with an otherworldly energy. The trees seem to lean in, as if listening to your every thought. You can feel the weight of history and mystery emanating from the island's ancient ruins.
 
-You've anchored the "Sea Dragon" in a secluded cove, and now you're standing on the island's sandy beach, gazing up at the ruins of a long-abandoned temple. The air is heavy with the scent of exotic spices and the sound of distant drums echoes through the jungle.
+You've anchored the "Sea Dragon" in a secluded cove, and now you're standing on the island's sandy beach, gazing up at the ruins of a long-abandoned temple. The air is heavy with the scent of exotic spices and the sound of distant drums echoes through in  the jungle.
 
 **What do you do next?**
 

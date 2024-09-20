@@ -8,7 +8,7 @@ As you approach the island's shores, you notice that the air is thick with an ot
 
 You've anchored the "Sea Dragon" in a secluded cove, and now you're standing on the island's sandy beach, gazing up at the ruins of a long-abandoned temple. The air is heavy with the scent of exotic spices and the sound of distant drums echoes throughin  the jungle.
 
-**What do you do next?**
+*What do you do next?*
 
 - **[Investigate the ruins of the ancient temple](temple.md)**
 - **[Explore the dense jungle](jungle.md)**
